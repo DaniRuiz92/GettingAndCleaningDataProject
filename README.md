@@ -3,6 +3,7 @@
 
 ## Files
 The R script __run_analysis.R__ does the following operations:
+
 1. Downloads the raw data
 2. Extracts the raw data
 3. Reads the raw data (Train and Test)
