@@ -10,6 +10,7 @@ Information about variables
 There are 30 different subjects, identified with a number between 1-30
 
 There are 6 different activities:
+
 1.WALKING
 2.WALKING_UPSTAIRS
 3.WALKING_DOWNSTAIRS
