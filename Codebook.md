@@ -20,12 +20,12 @@ There are 6 different activities:
 7. Aenean sit amet erat nunc
 8. Eget porttitor lorem
 
-1.WALKING
-2.WALKING_UPSTAIRS
-3.WALKING_DOWNSTAIRS
-4.SITTING
-5.STANDING
-6.LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 
 ## Measurements
